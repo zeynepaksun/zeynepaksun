@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a third-year software development student with a strong interest in exploring different technologies.
+I'm a fourth-year software development student with a strong interest in exploring different technologies.
 What you will find here is me trying to broaden my knowledge by trying out diverse technologies.
 
 Thank you for stopping by!
